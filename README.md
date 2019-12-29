@@ -1,2 +1,1 @@
-# slack-clone
-Slack Clone using GraphQL and React
+# # Slack Clone Using GraphQL and React
